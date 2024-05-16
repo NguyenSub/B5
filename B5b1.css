@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    background-color: rgb(235, 45, 83);
+    color: white;
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+}
+
+.clearfix {
+    content: "";
+    clear: both;
+    display: table;
+}
+.tieudetrai{
+    padding-top: 0px;
+}
+img{
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+}
+
